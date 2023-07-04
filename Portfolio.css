@@ -1,0 +1,72 @@
+#Home{
+  margin-top: 80px;
+}
+
+body{
+background-color: #6a1b9a;
+color: rgb(218, 226, 232);
+}
+
+img{
+  height:auto; 
+  width:50%;
+  border-radius: 35px;
+  float: right;
+}
+h4{
+color: rgba(226, 204, 226, 0.477);
+
+}
+
+h1{
+  color:rgb(58, 20, 58);
+}
+
+p{
+  font-size:large;
+}
+.media img{
+  width:20%;
+  height:20%;
+}
+.skill-image{
+  width: 40%;
+  height: 50%;
+}
+
+#contact .form-control {
+  background-color:black;
+  border-color: white;
+  color: #b6cbce70;
+}
+
+
+#contact .form-control::placeholder {
+  color: #b6cbce76;
+}
+
+#contact input.form-control {
+  height: 44px;
+}
+.btn {
+  padding: 12px 28px;
+  font-weight: 700;
+}
+
+.btn-brand {
+  background-color: #72b875ef;
+  border-radius: 10px;
+  
+}
+
+.form-control{
+  border-radius: 10px;
+}
+.card{
+  border-radius: 5px 5px 25px 25px;
+  border-color: bisque;
+  color:black;
+}
+.btn-secondary{
+  float: right;
+}
